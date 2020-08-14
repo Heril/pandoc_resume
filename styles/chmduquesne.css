@@ -75,13 +75,13 @@ blockquote {
 /* Links */
 a {
     text-decoration: none;
-	color: #000000;
+	color: #0000AA;
 }
 a:hover, a:active {
-	background-color: #000000;
-    color: #000000;
+	background-color: #FFFFFF;
+    color: #AA00AA;
     text-decoration: none;
-    text-shadow: 1px 1px 1px #333;
+    text-shadow: 1px 1px 1px #303;
 }
 
 /* Horizontal separators */

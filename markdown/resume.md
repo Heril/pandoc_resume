@@ -1,10 +1,11 @@
 # Spencer R Hall
 
----------------   ------------------------------------------
-                                   [spencer.r.hall@gmail.com](mailto:spencer.r.hall@gmail.com)
-                  [https://www.linkedin.com/in/spencerrhall/](https://www.linkedin.com/in/spencerrhall/)
-                                               [623-469-4578](tel:623-469-4578)
----------------   ------------------------------------------
+----------------------   ---------------------------------------------------------------------
+[pdf](./resume.pdf)                [spencer.r.hall@gmail.com](mailto:spencer.r.hall@gmail.com)
+                         [LinkedIn: \@spencerrhall](https://www.linkedin.com/in/spencerrhall/)
+                                                   [GitHub: \@heril](https://github.com/heril)
+                                                              [623-469-4578](tel:623-469-4578)
+----------------------   ---------------------------------------------------------------------
 
 ## **Education**
 
@@ -24,7 +25,7 @@ Arizona State University, Tempe, Arizona
 
 *2016 American Chemical Society Division of Inorganic Chemistry Undergraduate Award*
 
-## **Most Relevant Work Experience Usually**
+## **Recent Work Experience**
 
 **Intel Corporation**
 
@@ -32,18 +33,19 @@ Arizona State University, Tempe, Arizona
 :	Dec 2018 - May 2020
 
 * Developed dashboard for process changes that improved approval efficiency by 30%.
-* Trained over 500 engineers in the use of statistical methods used in semiconductor fabrication.
+* Trained over 500 engineers in the use of statistical methods used in semiconductor fabrication so the engineers could make data driven decissions to maintian process health.
 * Confirmed proper statistics methodologies in 200 white papers for Process Control limit changes and manufacturing experiments for improving semiconductor fabrication yields.
 * Developed weekly automated report of vital factory statistics to over 50 stakeholders using Python.
 
 
-## **Most Relevant Course Projects Usually**
+## **Recent Course Projects**
 
 <span style="font-variant:small-caps;">Multivariate Control Charts of Bivariate Copulas</span>
 
 * Contrasted performance of Hotelling, MEWMA and MCUSUM control charts of bivariate data with Normal, Gumbel, Clayton and Frank copula dependence structure.
 * Developed and optimized Monte Carlo simulation in R to generate data for these copula dependencies, as well as allowing it to be extended to any other copula as well.
 * Explored how the different dependence structure for each copula leads to difference of control chart performance.
+* Simulation GitHub Repository [heril/CopulaControl](https://github.com/heril/CopulaControl)
 
 <span style="font-variant:small-caps;">Real Estate Listing Prediction Modeling</span>
 :   Jan 2019 - May 2019
