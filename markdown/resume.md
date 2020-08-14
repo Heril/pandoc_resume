@@ -14,6 +14,8 @@
 Arizona State University, Tempe, Ariona
 :	GPA: 3.70/4.0
 
+*Applied Project Tittle: Multivariate Control Charts of Bivariate Copulas*
+
 **Bachelor of Science, Chemistry**
 :	May 2016
 
@@ -22,7 +24,20 @@ Arizona State University, Tempe, Arizona
 
 *2016 American Chemical Society Division of Inorganic Chemistry Undergraduate Award*
 
-## **Course Projects**
+## **Most Relevant Work Experience Usually**
+
+**Intel Corporation**
+
+<span style="font-variant:small-caps;">Graduate Technical Intern</span>
+:	Dec 2018 - May 2020
+
+* Developed dashboard for process changes that improved approval efficiency by 30%.
+* Trained over 500 engineers in the use of statistical methods used in semiconductor fabrication.
+* Confirmed proper statistics methodologies in 200 white papers for Process Control limit changes and manufacturing experiments for improving semiconductor fabrication yields.
+* Developed weekly automated report of vital factory statistics to over 50 stakeholders using Python.
+
+
+## **Most Relevant Course Projects Usually**
 
 <span style="font-variant:small-caps;">Multivariate Control Charts of Bivariate Copulas</span>
 
@@ -44,31 +59,30 @@ Arizona State University, Tempe, Arizona
 * Created ANOVA models for relating factors of patients being treated with Ischemic Heart Disease to cost of hospital visits using hospitalization data
 * Ensured proper model assumptions were being followed by using ANOVA model diagnostics.
 
-<span style="font-variant:small-caps;">Real Estate Regression Models</span>
-:   Aug 2018 – Dec 2018
+## Programming Languages
 
-* Implemented regression analysis in R to make predictions based on real estate data.
-* Conducted regression diagnostics and transformations to overcome assumption violations in the data used.
-* Performed multiple linear regression to select variables to improve home price prediction while avoiding over-fitting of the model.
+* Python
+* R
+* Git
+* Ruby
+* Mathematica
+* MATLAB
+* JavaScript
 
-<span style="font-variant:small-caps;">Secondary Structure of *Bombyx mori* silk in solvent mixtures</span>
-:   Aug 2015 - May 2016
+## Technical Skills
 
-* Cleaned and prepared films of proteins from the cocoons of *Bombyx mori*
-* Exposed films to Acetone and Methanol at various concentrations with water, as well as mixtures with each other. 
-* Characterized changes in secondary structure of the proteins using IR spectroscopy
+* Statistic Process Control
+* Machine Learning
 
-## **Work Experience**
+## Volunteer Experience
 
-**Intel Corporation**
+**ASU DataFest 2019**
 
-<span style="font-variant:small-caps;">Graduate Technical Intern</span>
-:	Dec 2018 - May 2020
+<span style="font-variant:small-caps;">Mentor</span>
 
-* Developed dashboard for process changes that improved approval efficiency by 30%.
-* Trained over 500 engineers in the use of statistical methods used in semiconductor fabrication.
-* Confirmed proper statistics methodologies in 200 white papers for Process Control limit changes and manufacturing experiments for improving semiconductor fabrication yields.
-* Developed weekly automated report of vital factory statistics to over 50 stakeholders using Python.
+* Advised participants on how to approach data analysis for the event.
+
+## **Other Work Experience**
 
 **The University of Chicago**
 
@@ -107,30 +121,19 @@ Arizona State University, Tempe, Arizona
 * Coached students in study methods specific to organic chemistry resulting in an average grade increase of 5% for those attending.
 * Developed exercises and examples to reinforce content from lecture.
 
-## Volunteer Experience
+## Other Course Projects
 
-**ASU DataFest 2019**
+<span style="font-variant:small-caps;">Real Estate Regression Models</span>
+:   Aug 2018 – Dec 2018
 
-<span style="font-variant:small-caps;">Mentor</span>
+* Implemented regression analysis in R to make predictions based on real estate data.
+* Conducted regression diagnostics and transformations to overcome assumption violations in the data used.
+* Performed multiple linear regression to select variables to improve home price prediction while avoiding over-fitting of the model.
 
-* Advised participants on how to approach data analysis for the event.
+<span style="font-variant:small-caps;">Secondary Structure of *Bombyx mori* silk in solvent mixtures</span>
+:   Aug 2015 - May 2016
 
-## Society of Actuaries
+* Cleaned and prepared films of proteins from the cocoons of *Bombyx mori*
+* Exposed films to Acetone and Methanol at various concentrations with water, as well as mixtures with each other. 
+* Characterized changes in secondary structure of the proteins using IR spectroscopy
 
-Probability Exam
-:   Mar 2018
-
-## Programming Languages
-
-* Python
-* R
-* Git
-* Ruby
-* Mathematica
-* MATLAB
-* JavaScript
-
-## Technical Skills
-
-* Statistic Process Control
-* Machine Learning
