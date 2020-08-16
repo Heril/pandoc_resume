@@ -10,10 +10,10 @@
 ## **Education**
 
 **Master of Science, Statistics**
-:	Aug 2020
+:	Expected Aug 2020
 
 Arizona State University, Tempe, Ariona
-:	GPA: 3.70/4.0
+<!--:	GPA: 3.70/4.0-->
 
 *Applied Project Tittle: Multivariate Control Charts of Bivariate Copulas*
 
