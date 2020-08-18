@@ -13,9 +13,7 @@
 :	Expected Aug 2020
 
 Arizona State University, Tempe, Ariona
-<!--:	GPA: 3.70/4.0-->
-
-*Applied Project Tittle: Multivariate Control Charts of Bivariate Copulas*
+:	GPA: 3.54/4.0
 
 **Bachelor of Science, Chemistry**
 :	May 2016
@@ -38,7 +36,7 @@ Arizona State University, Tempe, Arizona
 * Developed weekly automated report of vital factory statistics to over 50 stakeholders using Python.
 
 
-## **Recent Course Projects**
+## **Recent Projects**
 
 <span style="font-variant:small-caps;">Multivariate Control Charts of Bivariate Copulas</span>
 
@@ -123,7 +121,7 @@ Arizona State University, Tempe, Arizona
 * Coached students in study methods specific to organic chemistry resulting in an average grade increase of 5% for those attending.
 * Developed exercises and examples to reinforce content from lecture.
 
-## Other Course Projects
+## Other Projects
 
 <span style="font-variant:small-caps;">Real Estate Regression Models</span>
 :   Aug 2018 – Dec 2018
