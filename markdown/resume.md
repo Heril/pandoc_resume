@@ -12,8 +12,9 @@
 **Master of Science, Statistics**
 :	Expected Aug 2020
 
-Arizona State University, Tempe, Ariona
+Arizona State University, Tempe, Arizona
 :	GPA: 3.54/4.0
+
 
 **Bachelor of Science, Chemistry**
 :	May 2016
