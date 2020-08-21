@@ -25,7 +25,7 @@ $endif$
 \setuppapersize [$if(papersize)$$papersize$$else$letter$endif$][$if(papersize)$$papersize$$else$letter$endif$]
 \setuplayout    [width=middle, height=middle,
                  backspace=20mm, cutspace=0mm,
-                 topspace=10mm, bottomspace=20mm,
+                 topspace=10mm, bottomspace=10mm,
                  header=0mm, footer=0mm]
 
 %\setuppagenumbering[location={footer,center}]
@@ -38,8 +38,8 @@ $endif$
 
 \setuphead[chapter]      [style=\tfd]
 \setuphead[section]      [style=\tfd\bf, color=titlegrey, align=middle]
-\setuphead[subsection]   [style=\tfb\bf, color=sectioncolor, align=right]
-%                          before={\leavevmode\blackrule\hspace}]
+\setuphead[subsection]   [style=\tfb\bf, color=sectioncolor, align=right,
+                          before={\leavevmode\blackrule\hspace}]
 \setuphead[subsubsection][style=\bf]
 
 $if(number-sections)$
@@ -51,8 +51,8 @@ $endif$
 
 \definedescription
   [description]
-  [headstyle=bold, style=normal,
-   location=hanging, width=4.6in, distance=14mm, margin=0cm]
+  [headstyle=normal, style=normal,
+   location=hanging, width=3.7in, distance=14mm, margin=0cm]
 
 \setupitemize[autointro, packed]    % prevent orphan list intro
 \setupitemize[indentnext=no]

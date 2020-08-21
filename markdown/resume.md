@@ -1,19 +1,16 @@
 # Spencer R Hall
 
-----------------------   ---------------------------------------------------------------------
-[pdf](./resume.pdf)                [spencer.r.hall@gmail.com](mailto:spencer.r.hall@gmail.com)
-                         [LinkedIn: \@spencerrhall](https://www.linkedin.com/in/spencerrhall/)
-                                                   [GitHub: \@heril](https://github.com/heril)
-                                                              [623-469-4578](tel:623-469-4578)
-----------------------   ---------------------------------------------------------------------
+[pdf](./resume.pdf) 
+-----------------------------------------------------------   ---------------------------------------------------------------------
+[spencer.r.hall@gmail.com](mailto:spencer.r.hall@gmail.com)                             [GitHub: \@heril](https://github.com/heril)             
+[623-469-4578](tel:623-469-4578)                              [LinkedIn: \@spencerrhall](https://www.linkedin.com/in/spencerrhall/)
+-----------------------------------------------------------   ---------------------------------------------------------------------
 
 ## **Education**
 
-**Master of Science, Statistics**
-:	Expected Aug 2020
+**Master of Science, Statistics** May 2020
 
-Arizona State University, Tempe, Arizona
-:	GPA: 3.54/4.0
+Arizona State University, Tempe, Arizona GPA: 3.54/4.0
 
 
 **Bachelor of Science, Chemistry**
@@ -36,6 +33,9 @@ Arizona State University, Tempe, Arizona
 * Confirmed proper statistics methodologies in 200 white papers for Process Control limit changes and manufacturing experiments for improving semiconductor fabrication yields.
 * Developed weekly automated report of vital factory statistics to over 50 stakeholders using Python.
 
+Analyzed time from WP submission for qualifying tools to final approval, comparing across FAB and Technology to identify people to get insight to improve WP approval times, as these tools cannot be used in production for the benefit of the business until approved. (My idea)
+
+In response to COVID and a greater shift to remote work, a gap remained for training engineers in statistics. The training curriculum includes live experiments to help solidify the concepts which were impossible to do remotely. Used JMP and JSL to create a simulation that could be run from the engineers computers to keep the quality of the training what it needed to be. (My idea)
 
 ## **Recent Projects**
 
@@ -60,18 +60,10 @@ Arizona State University, Tempe, Arizona
 * Created ANOVA models for relating factors of patients being treated with Ischemic Heart Disease to cost of hospital visits using hospitalization data
 * Ensured proper model assumptions were being followed by using ANOVA model diagnostics.
 
-## Programming Languages
-
-* Python
-* R
-* Git
-* Ruby
-* Mathematica
-* MATLAB
-* JavaScript
-
 ## Technical Skills
 
+* Programming languages: Python, R, JavaScript, Mathematica. Familiarity with C++, SQL, MatLab.
+* Git
 * Statistic Process Control
 * Machine Learning
 
